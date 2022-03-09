@@ -1,0 +1,15 @@
+Product Owner/
+dueño de producto: 
+El unico encargado de la lista del producto, decide que se va a trabajar primero, 
+encargado de despejar dudas al equipo de desarrollo de como el cliente desea el producto 
+de forma detallada.
+
+Capacidad de explicar en que consiste cada funcionalidad
+
+Decide en que orden se van a realizar los diferentes desarrollos o funcionalidades.
+
+Dar claridad en los objetivos del desarrollo.
+
+Saber cuales tareas sean realizado y cuales faltan, y mostrar hacia donde van.
+
+Asegurar que el equipo de desarrollo conoce los elementos de la lista del producto.

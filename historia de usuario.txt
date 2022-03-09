@@ -1,0 +1,63 @@
+Definición de terminado:
+
+Push de commits sobre branch, haciendo referencia al número de issue trabajado.
+Aprobación del pull request de al menos 2 miembros del equipo de desarrollo.
+Agregar sobre el issue trabajado evidencias del éxito de pruebas de funcionalidad y de integración
+Documentar la funcionalidad liberada en el repositorio compartido al cliente .
+Actualizar apps y/o hacer deploy, notificar al cliente e indicar si es necesario realizar algún tipo de actualización.
+
+las historias de usuarios son los elementos más específicos de la lista de producto, no se tienen que confundir con los requerimientos si no que es la funcionalidad que el usuario quiere realizar.
+
+Componente de una historia de usuario:
+1-La historia tiene un ** titulo** ¿De que se trata la historia?
+2-Debe tener una descripción, como se deben realizar las historias
+3-Puntos, esfuerzo que le va a tomar al equipo de desarrollo terminar una tarea
+4-Criterios de aceptación es como identificamos que la tarea fue completada
+
+//Descripción
+Como, rol quien es el usuario que cuenta la historia
+Quiero, que funcionalidad está buscando el usuario
+Para, para que quiero realizar esa acción
+
+Dentro la definición de historia de usuario vamos a entender como completo, cuando por ejemplo:
+Funcionalidad, cumple con lo establecido en la historia
+Código subido en git
+Pruebas creadas, pruebas unitarias, pruebas funcionales
+Documentación, que el código esté bien documentado
+
+Invertir tiempo en nuestras historias, las 3C’s
+Cards: escribimos la historia de usuario
+Conversación: Entender todo sobre la historia
+Confirmación: confirmar que todos entendieron lo mismo
+
+Invirtiendo en Historias
+I - independiente, no debe depender de otra historia de usuario
+N - Negociable. si la historia es muy grande dividirla en tareas pequeñas
+V- Valiosa, Debe entregar valor al cliente
+E - Estimable, cuánto esfuerzo requiere
+S - Small, debe ser pequeña
+T - Testable, se debe validar su funcionalidad
+
+----------------------------------------------------------------
+
+Para poder estimar historias de usuario tenemos que tener en cuenta:
+
+La complejidad de la historia, funcionalidad de la actividad
+Cantidad de trabajo requerido, tamaño de la actividad
+Conocimientos necesarios, aprendizaje para realizar la actividad
+Incertidumbre, factores externos que no controlamos
+El estimado lo vamos a tomar como puntos, los puntos no son horas de trabajo, no commits, etc es un estimado empírico en base a la experiencia del proyecto.
+
+Poker de planeación, esta herramienta nos va a servir para estimar las historias de usuarios. Podemos usar diferentes escalas, ejemplo:
+
+1, 2, 3, 5, 8, 13 … infinito e incertidumbre
+1, 2, 4, 8, 16, 32 …
+La idea de no usar números consecutivos es para reducir las discusiones
+
+Al final del sprint vamos a tener el valor total de puntos y eso nos va a dar el valor de velocidad del equipo.
+
+La velocidad es el total de puntos completados por el equipo durante las historias de usuario.
+
+La capacidad es el total de historias de usuario que se pueden completar en un sprint futuro.
+
+Entonces básicamente el primer sprint sirve para medir la velocidad del equipo y en base a este se van a poder estimar mejor los siguientes sprints.

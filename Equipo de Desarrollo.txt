@@ -1,0 +1,12 @@
+Equipo de Desarrollo
+Consiste en un grupo de profesionales que realizan el trabajo de entregar un incremento de producto “Terminado” que potencialmente se pueda poner en producción al final de cada sprint.
+
+La organización debe poder empoderar al Dev team para que estos se organicen y gestionen su propio trabajo. Deben darles la confianza al equipo.
+
+Características:
+Autoorganizados.
+Multifuncionales
+No tienen títulos
+No hay subequipos
+Solo se pude modificar al terminar el sprint. (No se puede modificar al equipo de desarrollo hasta que acabe el sprint)
+El equipo puede ser de 3 a 9 personas sin tomar en cuenta el product owner y al scrum master. Al menos que uno de esos dos hagan código o diseño y que este dentro de sus funciones diarias hacer esta actividades.

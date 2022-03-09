@@ -1,0 +1,36 @@
+El corazón de Scrum es el sprint
+
+El sprint es un periodo determinado, normalmente dura de 1 a 4 semanas y siempre sera el mismo periodo.
+
+El ritmo del sprint:
+
+Planeación del sprint, que se va a trabajar
+Scrum diario, reunión para discutir el progreso
+Trabajo de desarrollo, que va ocurriendo todos los días
+Revisión del sprint, aquí vemos si se cumplen o no los objetivos
+Retrospectiva del sprint, que se puede mejorar
+Todos los sprints deben de tener un objetivo claro y el equipo de desarrollo lo debe saber porque lo esta haciendo
+
+Si los objetivos quedan obsoletos el product owner puede cancelar el sprint y esto rara vez sucede
+
+************************************************************************************************
+sprint planning
+¿Qué es el planning?
+El sprint planning es la ceremonia donde definimos las HU que se van a desarrollar durante el srpint. Debe estar presente todo el equipo de Scrum: SM, PO y equipo de desarrollo.
+
+¿Qué duración debe tener el planning?
+No debe durar más de 8 horas para sprints de 4 semanas. Normalmente esta ceremonia puede durar 1 hora para un sprint de 2 semanas.
+Funciones del SM en el planning
+El Scrum Master es el encargado de organizar esta ceremonia, debe ser en un lugar adecuado, un salón lo suficientemente grande para el equipo, puede haber pizarrón, si se necesita sala de videoconferencia para hablar con un cliente. El Scrum Master debe encargarse de que todo esté y que todo funcione.
+
+Nadie puede responder correos, llamadas, ni mensajes, deben estar concentrados en el srpint planning, y todo el equipo debe estar concentrado en la misma actividad.
+Objetivos del planning
+¿Qué puede entregarse al final del sprint?
+Se toman las HU más prioritarias de la lista de producto.
+Se discute también el objetivo a lograr en el sprint.
+Saber la capacidad del equipo y la velocidad de la última iteración.
+¿Cómo se logrará hacer este trabajo?
+Las HU pasan de la lista de producto al backlog del srpint.
+Se hacen las estimaciones de esfuerzo.
+El PO se encarga de aclarar cualquier duda con una HU.
+Pueden haber invitados que aporten valor (cliente, usuario final).

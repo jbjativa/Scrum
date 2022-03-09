@@ -1,0 +1,21 @@
+El backlog del sprint va a ser un subconjunto de elementos de la lista del producto y estas historias de usuario son las que vamos a trabajar y los objetivos que queremos cumplir.
+
+*Etapas intermedias:
+
+Historias de usuario
+Historias que hemos decidido trabajar
+Historias que están en progreso
+Historias que se van a empezar a probar
+Historias terminadas
+Trello es una buena herramienta para darle seguimiento a las actividades. Aqui les dejo un link del tablero que yo uso https://trello.com/b/2SFC7g8G/scrum-ejemplo
+
+Lista de pendientes del sprint debe estar lo suficientemente detallado para que el equipo sea capaz de comprenderlo en los daily stand-ups
+
+El dueño del backlog del sprint es el equipo de desarrollo, y ellos tienen control sobre esta lista y están en su derecho de rechazar otras historias. Sin embargo el Product owner podrá dialogar con el equipo para bajar la prioridad o eliminar historias de usuarios
+
+Como se define las prioridades:
+
+Valor para el cliente, que historias generan más valor al producto
+Urgencia, cuando algo tiene una fecha limite
+Riesgo / Oportunidad, definir el impacto que una historia puede tener sobre otras
+Esfuerzo que tanto trabajo le va a tomar al equipo desarrollar la historia

@@ -1,0 +1,10 @@
+Las épicas y el backlog del producto
+Todo lo que se necesite que haga el producto debe estar en la Lista de Producto si no esta allí no e trabaja en ello. La lista del producto nunca esta completa, se desarrolla a medida del desarrollo.
+
+Los elementos mas prioritarios deben estar super detallados, y estos elementos son los que están en el sprint actual y el próximo. Los sprint lejanos no es necesario tenerlos tan detallados por el momento.
+
+La lista del producto es un artefacto vivo cosas pueden agregarse o eliminarse del producto.
+
+Los elementos del producto los conocemos como Historias de Usuario.
+
+Las Épicas son el conjunto de muchas historias de usuarios y nacen de la toma de notas de funcionalidades o módulos. Estas épicas requieren de más de un sprint para ser completadas.
